@@ -29,4 +29,6 @@ https://github.com/marck-oemar/confluence-tests
 ### Bash unit testing : Bats
 https://github.com/marck-oemar/unittesting/tree/master/bash
 
+### Puppet Module / Control Testing
+https://gitlab.com/cohesion/cicd-for-puppet
 
